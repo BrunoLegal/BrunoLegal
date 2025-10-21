@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, me chamo Bruno 👋
 
-<!--
-**BrunoLegal/BrunoLegal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Back-end Júnior recém-formado, apaixonado por construir soluções robustas e eficientes em Java.
 
-Here are some ideas to get you started:
+- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente focado em aprimorar minhas habilidades no ecossistema Spring (Spring Boot, Spring Security, Spring Data JPA).
+- 💼 Buscando minha primeira oportunidade de emprego como Desenvolvedor Back-end.
+- 🔗 [Meu LinkedIn](https://www.linkedin.com/in/brunojoanucci)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologias e Ferramentas
+
+Minhas principais ferramentas para desenvolvimento:
+
+- **Linguagem:** Java (17+)
+- **Framework:** Spring Boot 3
+- **Persistência:** Spring Data JPA, Hibernate, PostgreSQL, H2
+- **Testes:** JUnit 5, Mockito, Testcontainers
+- **Segurança:** Spring Security, JWT
+- **DevOps:** Git, Docker, Docker Compose, GitHub Actions
+
+---
+
+### 📂 Meus Projetos de Destaque (Demos)
+
+1.  **[Projeto 1: API REST "Pronta para Produção"](TODO)**
+    - Uma API RESTful para gestão de clínica, construída com Spring Boot, focada em testes (JUnit/Mockito) e automação com GitHub Actions (CI).
+2.  **(Em breve) Projeto 2: Serviço de Autenticação com JWT**
