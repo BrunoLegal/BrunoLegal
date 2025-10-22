@@ -24,6 +24,6 @@ Minhas principais ferramentas para desenvolvimento:
 
 ### 📂 Meus Projetos de Destaque (Demos)
 
-1.  **[Projeto 1: API REST "Pronta para Produção"](TODO)**
+1.  **[Projeto 1: API REST "Pronta para Produção"](https://github.com/BrunoLegal/clinic-api)**
     - Uma API RESTful para gestão de clínica, construída com Spring Boot, focada em testes (JUnit/Mockito) e automação com GitHub Actions (CI).
 2.  **(Em breve) Projeto 2: Serviço de Autenticação com JWT**
