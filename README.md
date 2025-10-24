@@ -1,29 +1,30 @@
-# Olá, me chamo Bruno 👋
+# Hi, I'm Bruno 👋
 
-Sou um desenvolvedor Back-end Júnior recém-formado, apaixonado por construir soluções robustas e eficientes em Java.
+I am a recently graduated Junior Back-end Developer, passionate about building robust, testable, and efficient solutions using Java.
 
-- 🎓 Graduado em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente focado em aprimorar minhas habilidades no ecossistema Spring (Spring Boot, Spring Security, Spring Data JPA).
-- 💼 Buscando minha primeira oportunidade de emprego como Desenvolvedor Back-end.
-- 🔗 [Meu LinkedIn](https://www.linkedin.com/in/brunojoanucci)
+- 🎓 Graduate in **Systems Analysis and Development**.
+- 🌱 Currently focused on mastering the Spring ecosystem (Spring Boot, Spring Security, Spring Data JPA).
+- 💼 Seeking my first job opportunity as a Back-end Developer.
+- 🔗 [**My LinkedIn Profile**](https://www.linkedin.com/in/brunojoanucci)
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Technologies & Tools
 
-Minhas principais ferramentas para desenvolvimento:
+My primary tech stack for development:
 
-- **Linguagem:** Java (17+)
+- **Language:** Java (17+)
 - **Framework:** Spring Boot 3
-- **Persistência:** Spring Data JPA, Hibernate, PostgreSQL, H2
-- **Testes:** JUnit 5, Mockito, Testcontainers
-- **Segurança:** Spring Security, JWT
-- **DevOps:** Git, Docker, Docker Compose, GitHub Actions
+- **Persistence:** Spring Data JPA, Hibernate, PostgreSQL
+- **Testing:** JUnit 5, Mockito, Spring Boot Test, MockMvc, H2 (for Integration Tests)
+- **DevOps:** Git, Docker, Docker Compose, GitHub Actions (CI)
+- **Security:** (Currently learning) Spring Security, JWT
 
 ---
 
-### 📂 Meus Projetos de Destaque (Demos)
+### 📂 Featured Projects
 
-1.  **[Projeto 1: API REST "Pronta para Produção"](https://github.com/BrunoLegal/clinic-api)**
-    - Uma API RESTful para gestão de clínica, construída com Spring Boot, focada em testes (JUnit/Mockito) e automação com GitHub Actions (CI).
-2.  **(Em breve) Projeto 2: Serviço de Autenticação com JWT**
+1.  [**Clinic API - Patient Management**](https://github.com/BrunoLegal/clinic-api)
+    - A production-ready RESTful API for patient management. This project demonstrates a clean architecture (DTOs, Mappers, Services), a full suite of unit and integration tests, and a complete CI pipeline with GitHub Actions.
+2.  **(Coming Soon) Authentication Service**
+    - A new microservice focused on security, implementing authentication and authorization using Spring Security and JWT.
